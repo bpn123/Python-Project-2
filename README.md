@@ -1,2 +1,2 @@
-# Python-Project-2
+# Python-Fibonacci
 Developed by Ashutosh Mohapatra
